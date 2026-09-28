@@ -117,14 +117,28 @@ Android app for network operations, performance metrics, alarms and KPI reportin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamkhare1012&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhare1012&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=shubhamkhare1012&theme=dark&hide_border=true&background=0B1330&ring=5B8CFF&fire=5B8CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9DB7FF&sideLabels=9DB7FF&dates=6B7BAA&stroke=1F2A55" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shubhamkhare1012?style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" />
 </p>
 
 ---
+
+<!--
+## 📌 Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Project Name](https://github.com/shubhamkhare1012/REPO) | One line about what it does | Kotlin, Room, REST |
+| [Project Name](https://github.com/shubhamkhare1012/REPO) | One line about what it does | React Native, JWT |
+
+---
+-->
 
 ## 🤝 Connect With Me
 
@@ -135,4 +149,4 @@ Android app for network operations, performance metrics, alarms and KPI reportin
 - 🥘 CodeChef: [shubham_khare](https://www.codechef.com/users/shubham_khare)
 - 📧 Email: shubhsays31@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101d45,100:050816&height=100&section=footer" width="100%" />
+<img src="https://github.com/shubhamkhare1012/shubhamkhare1012/raw/HEAD/footer.svg" alt="Thanks for visiting" width="100%" />
