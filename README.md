@@ -1,25 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header" width="100%" />
-
-<a href="https://github.com/shubhamkhare1012">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there!+I'm+Shubham+Khare;Senior+Android+Developer;Kotlin+%7C+Jetpack+%7C+MVVM;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-khare-989823169/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubhsays31@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/skhare798"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/kShubh10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/shubham_khare"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamkhare1012&label=Profile%20views&color=1f6feb&style=flat" />
-</p>
-
+<div align="center"> <img src="./header.svg" alt="Hi there! I'm Shubham Khare" width="100%" /> </div> <p align="center"> <a href="https://www.linkedin.com/in/shubham-khare-989823169/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shubhsays31@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/skhare798"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="https://leetcode.com/u/kShubh10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://www.codechef.com/users/shubham_khare"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamkhare1012&label=Profile%20views&color=1f6feb&style=flat" /> </p>
 ---
 
 ## 📖 About Me
