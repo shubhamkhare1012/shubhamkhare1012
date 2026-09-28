@@ -1,4 +1,21 @@
-<div align="center"> <img src="./header.svg" alt="Hi there! I'm Shubham Khare" width="100%" /> </div> <p align="center"> <a href="https://www.linkedin.com/in/shubham-khare-989823169/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shubhsays31@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/skhare798"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="https://leetcode.com/u/kShubh10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://www.codechef.com/users/shubham_khare"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamkhare1012&label=Profile%20views&color=1f6feb&style=flat" /> </p>
+<div align="center">
+
+<img src="./header.svg" alt="Hi there! I'm Shubham Khare" width="100%" />
+
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-khare-989823169/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubhsays31@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/skhare798"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kShubh10/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/shubham_khare"><img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamkhare1012&label=Profile%20views&color=1f6feb&style=flat" />
+</p>
+
 ---
 
 ## 📖 About Me
@@ -118,4 +135,4 @@ Android app for network operations, performance metrics, alarms and KPI reportin
 - 🥘 CodeChef: [shubham_khare](https://www.codechef.com/users/shubham_khare)
 - 📧 Email: shubhsays31@gmail.com
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101d45,100:050816&height=100&section=footer" width="100%" />
