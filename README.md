@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Hi there! I'm Shubham Khare" width="100%" />
+<img src="https://github.com/shubhamkhare1012/shubhamkhare1012/raw/HEAD/header.svg" alt="Hi there! I'm Shubham Khare" width="100%" />
 
 </div>
 
