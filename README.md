@@ -19,7 +19,7 @@
 ---
 
 ## 📖 About Me
-- Check out - [📄 Resume](https://drive.google.com/file/d/1U4rlmgkxQoCg7wZu8Vo37QZXwd0LD9F0/view?usp=sharing), [🌐 Portfolio](https://shubhamkhare1012.github.io/)
+- Check out - [📄 Resume](https://drive.google.com/file/d/1iWluLkGcX_iKhPt_FrkIAoWNFlxOCpYt/view?usp=sharing), [🌐 Portfolio](https://shubhamkhare1012.github.io/)
 - 💻 **Senior Android Developer** with **8+ years** of experience
 - 🏛️ Building secure, scalable, production-grade mobile apps across **Government, Telecom and Enterprise** domains
 - 🔐 Specialist in **Kotlin, Java, Android SDK, Jetpack, MVVM, Clean Architecture, REST APIs, biometric authentication**
